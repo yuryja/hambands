@@ -1,0 +1,45 @@
+{
+  "name": "hambands",
+  "author": "Yury Jajitzky - YY3BIG",
+  "version": "1.0.0",
+  "keywords": [
+    "pebble-app"
+  ],
+  "private": true,
+  "dependencies": {
+    "pebble-clay": "^1.0.4"
+  },
+  "pebble": {
+    "displayName": "hambands",
+    "uuid": "d4275eff-8858-408f-95ac-1d4d1c1ad3e9",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk",
+      "diorite",
+      "emery"
+    ],
+    "watchapp": {
+      "watchface": false
+    },
+    "messageKeys": {
+      "SFI": 0,
+      "K_INDEX": 1,
+      "BAND_80_40_D": 2,
+      "BAND_30_20_D": 3,
+      "BAND_17_15_D": 4,
+      "BAND_12_10_D": 5,
+      "BAND_80_40_N": 6,
+      "BAND_30_20_N": 7,
+      "BAND_17_15_N": 8,
+      "BAND_12_10_N": 9,
+      "UPDATED": 10,
+      "LANG": 11
+    },
+    "resources": {
+      "media": []
+    }
+  }
+}

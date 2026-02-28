@@ -1,0 +1,33 @@
+[
+  {
+    "type": "heading",
+    "defaultValue": "HamBands Settings"
+  },
+  {
+    "type": "section",
+    "items": [
+      {
+        "type": "heading",
+        "defaultValue": "Language Override"
+      },
+      {
+        "type": "select",
+        "messageKey": "LANG",
+        "defaultValue": "en",
+        "label": "Select Language",
+        "options": [
+          { "label": "System Default", "value": "system" },
+          { "label": "English", "value": "en" },
+          { "label": "Español", "value": "es" },
+          { "label": "Français", "value": "fr" },
+          { "label": "Italiano", "value": "it" },
+          { "label": "Português", "value": "pt" }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "submit",
+    "defaultValue": "Save Settings"
+  }
+]
