@@ -57,6 +57,14 @@ The app includes a settings page accessible via the Pebble mobile app. You can:
 
 All solar and propagation data is provided by the excellent XML service at [hamqsl.com](https://www.hamqsl.com) by N0NBH.
 
+## ☕ Support / Donation
+
+If you find this app useful and would like to support its development, you can buy me a coffee!
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/yuryja)
+
+Your support is greatly appreciated!
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yuryja/hambands/issues).
